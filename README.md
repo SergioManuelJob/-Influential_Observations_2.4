@@ -1,0 +1,1 @@
+Notebook of the exercise that has been done in class for an activity, here in this notebook you will find different methods that are used commonly to detect outliers.
